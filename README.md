@@ -2,3 +2,4 @@
 
 ## for python code
 1. SublimeCodeIntel - list attributes of an object, auto index packages
+2. SublimeLinter-pyflakes pyflakes - it analyzes programs and detects various errors. sudo pip install pyflakes
